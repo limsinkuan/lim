@@ -1,0 +1,26 @@
+{
+  "record": {
+    "response": [
+      {
+        "id": "DCS123",
+        "name": "Lim Sin Kuan",
+        "course": "Diploma In Computer Science"
+      },
+      {
+        "id": "DCS234",
+        "name": "Jason",
+        "course": "Diploma In Computer Science",
+      },
+      {
+        "id": "DCS345",
+        "name": "Samuel",
+        "course": "Diploma In Computer Science",
+      },
+      {
+        "id": "DCS456",
+        "name": "Eunice",
+        "course": "Diploma In Computer Science",
+      }
+    ]
+  }
+}
